@@ -1,6 +1,5 @@
-# ng_cypress
+# Installation
 
-Installation
 ## install all dependencies from the root directory
 npm install
 
