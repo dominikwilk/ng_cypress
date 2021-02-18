@@ -4,7 +4,8 @@
 npm install
 
 ## Opening Cypress GUI
-cypress open
+npm run cypress:open
+
 
 ## Choose 2 spec files from listed in Cypress GUI
 login and register
